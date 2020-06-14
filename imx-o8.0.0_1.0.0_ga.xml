@@ -8,7 +8,7 @@
            review="" />
 
   <remote  name="imx-proprietary"
-           fetch="git://git.freescale.com/proprietary/"
+           fetch="git://github.com/NXP/"
            review="" />
 
   <!--> imx-firmware needs to be fetched from git.freescale.com as it is proprietary <-->
